@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\ProjeWeb\\ProjeWeb\\ProjeWeb.csproj": {}
+    "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\Web_projem\\ProjeWeb\\ProjeWeb\\ProjeWeb.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\ProjeWeb\\ProjeWeb\\ProjeWeb.csproj": {
+    "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\Web_projem\\ProjeWeb\\ProjeWeb\\ProjeWeb.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\ProjeWeb\\ProjeWeb\\ProjeWeb.csproj",
+        "projectUniqueName": "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\Web_projem\\ProjeWeb\\ProjeWeb\\ProjeWeb.csproj",
         "projectName": "ProjeWeb",
-        "projectPath": "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\ProjeWeb\\ProjeWeb\\ProjeWeb.csproj",
+        "projectPath": "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\Web_projem\\ProjeWeb\\ProjeWeb\\ProjeWeb.csproj",
         "packagesPath": "C:\\Users\\Abdullah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\ProjeWeb\\ProjeWeb\\obj\\",
+        "outputPath": "C:\\Users\\Abdullah\\Desktop\\G181210063_WebProje\\Web_projem\\ProjeWeb\\ProjeWeb\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

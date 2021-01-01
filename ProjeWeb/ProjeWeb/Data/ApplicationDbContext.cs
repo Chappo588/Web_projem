@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
+using ProjeWeb.Models;
 
 namespace ProjeWeb.Data
 {
@@ -12,5 +13,11 @@ namespace ProjeWeb.Data
             : base(options)
         {
         }
+
+        public DbSet<Otel> Otel { get; set; }
+
+        public DbSet<Tur> Tur { get; set; }
+
+
     }
 }
