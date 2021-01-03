@@ -14,10 +14,13 @@ namespace ProjeWeb.Data
         {
         }
 
+        public DbSet<Kullanici> Kullanici { get; set; }
+
         public DbSet<Otel> Otel { get; set; }
 
         public DbSet<Tur> Tur { get; set; }
 
+        public DbSet<Yorum> Yorum { get; set; }
 
     }
 }
