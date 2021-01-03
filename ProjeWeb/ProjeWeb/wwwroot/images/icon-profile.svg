@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 28 28">
+    <defs>
+        <style>
+            .cls-1{fill:#00a0df}.cls-2{clip-path:url(#clip-path)}
+        </style>
+        <clipPath id="clip-path">
+            <path id="Rectangle_7755" d="M0 0h28v28H0z" class="cls-1" data-name="Rectangle 7755" transform="translate(2325 591)"/>
+        </clipPath>
+    </defs>
+    <g id="Mask_Group_3547" class="cls-2" data-name="Mask Group 3547" transform="translate(-2325 -591)">
+        <g id="_20190305__BiP__Group_Chat_Icons-19" data-name="20190305__BiP__Group Chat Icons-19" transform="translate(2325 591.003)">
+            <path id="Path_11719" d="M26.258 13.121a13.129 13.129 0 1 0-20.3 10.941l.142.088a13.009 13.009 0 0 0 13.972 0 .831.831 0 0 0 .252-.142 13.129 13.129 0 0 0 5.93-10.886zM7.243 22.968c-.038-.235.547 2.027 5.886 2.027s5.924-2.262 5.886-2.027a11.379 11.379 0 0 1-11.773 0zM20.7 21.731c-.164-2.538-1.7-5.331-7.571-5.331s-7.407 2.79-7.571 5.328a11.488 11.488 0 1 1 15.142 0z" class="cls-1" data-name="Path 11719" transform="translate(.871 .94)"/>
+            <path id="Path_11720" d="M14.592 4.687a5.693 5.693 0 1 0 4.783 8.761 5.635 5.635 0 0 0 .91-3.08 5.693 5.693 0 0 0-5.693-5.681z" class="cls-1" data-name="Path 11720" transform="translate(-.591 -.247)"/>
+        </g>
+    </g>
+</svg>
